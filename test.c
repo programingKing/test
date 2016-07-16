@@ -3,7 +3,7 @@
 int main(){
 
 	printf("test\n");
-	printf("2222\n");
+	printf("1111\n");
 
 	return 0;
 }
